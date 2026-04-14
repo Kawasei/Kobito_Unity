@@ -1,0 +1,689 @@
+fileFormatVersion: 2
+guid: 96dfd0b4e899bb448ac522f01bcd76d3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4357056527191080103
+    second: Star_Mock3_0
+  - first:
+      213: -6003420319045407531
+    second: Star_Mock3_1
+  - first:
+      213: -6519711927820456042
+    second: Star_Mock3_2
+  - first:
+      213: -8251992713638942824
+    second: Star_Mock3_3
+  - first:
+      213: -3313727735014971946
+    second: Star_Mock3_4
+  - first:
+      213: 6029325160074153959
+    second: Star_Mock3_5
+  - first:
+      213: 5652777046589910469
+    second: Star_Mock3_6
+  - first:
+      213: 481831136698701930
+    second: Star_Mock3_7
+  - first:
+      213: -3056782274586412293
+    second: Star_Mock3_8
+  - first:
+      213: 5278381753838548001
+    second: Star_Mock3_9
+  - first:
+      213: 5187899412739760426
+    second: Star_Mock3_10
+  - first:
+      213: 1554764462767984920
+    second: Star_Mock3_11
+  - first:
+      213: 5881533065309536652
+    second: Star_Mock3_12
+  - first:
+      213: 2513318506701229455
+    second: Star_Mock3_13
+  - first:
+      213: 6399005970197063063
+    second: Star_Mock3_14
+  - first:
+      213: 9201241322519709532
+    second: Star_Mock3_15
+  - first:
+      213: 6883652718408303471
+    second: Star_Mock3_16
+  - first:
+      213: -1584831609588598733
+    second: Star_Mock3_17
+  - first:
+      213: 1358268396971440459
+    second: Star_Mock3_18
+  - first:
+      213: -2026384808502915888
+    second: Star_Mock3_19
+  - first:
+      213: 108892446132484689
+    second: Star_Mock3_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Star_Mock3_0
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 1039
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ac7589a3df577c30800000000000000
+      internalID: 4357056527191080103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star_Mock3_1
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 1019
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dcafedf6019faca0800000000000000
+      internalID: -6003420319045407531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star_Mock3_2
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 989
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69f62686b845585a0800000000000000
+      internalID: -6519711927820456042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star_Mock3_3
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 969
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 897607e09580b7d80800000000000000
+      internalID: -8251992713638942824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star_Mock3_4
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 889
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d5a2109e264302d0800000000000000
+      internalID: -3313727735014971946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star_Mock3_5
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 899
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ef8b81d9477ca350800000000000000
+      internalID: 6029325160074153959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star_Mock3_6
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 809
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cd297036c2b27e40800000000000000
+      internalID: 5652777046589910469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star_Mock3_7
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 799
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6816a0bddecfa600800000000000000
+      internalID: 481831136698701930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star_Mock3_8
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 719
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfaf09f77b02495d0800000000000000
+      internalID: -3056782274586412293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star_Mock3_9
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 749
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12433723d34904940800000000000000
+      internalID: 5278381753838548001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star_Mock3_10
+      rect:
+        serializedVersion: 2
+        x: 1419
+        y: 699
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a21afca770f1ff740800000000000000
+      internalID: 5187899412739760426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star_Mock3_11
+      rect:
+        serializedVersion: 2
+        x: 1579
+        y: 649
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 811dfa89a02a39510800000000000000
+      internalID: 1554764462767984920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star_Mock3_12
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 619
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c814d7449276f9150800000000000000
+      internalID: 5881533065309536652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star_Mock3_13
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 639
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8d875f9dd911e220800000000000000
+      internalID: 2513318506701229455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star_Mock3_14
+      rect:
+        serializedVersion: 2
+        x: 1109
+        y: 649
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7952339c606ddc850800000000000000
+      internalID: 6399005970197063063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star_Mock3_15
+      rect:
+        serializedVersion: 2
+        x: 1819
+        y: 649
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c57ce698b3061bf70800000000000000
+      internalID: 9201241322519709532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star_Mock3_16
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 579
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6301ed1da5a78f50800000000000000
+      internalID: 6883652718408303471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star_Mock3_17
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 569
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33839a14c0c810ae0800000000000000
+      internalID: -1584831609588598733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star_Mock3_18
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 509
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b493f1f19e989d210800000000000000
+      internalID: 1358268396971440459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star_Mock3_19
+      rect:
+        serializedVersion: 2
+        x: 1729
+        y: 559
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dc8feeb0c5d0e3e0800000000000000
+      internalID: -2026384808502915888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star_Mock3_20
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 499
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15a33725a1dd28100800000000000000
+      internalID: 108892446132484689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Star_Mock3_0: 4357056527191080103
+      Star_Mock3_1: -6003420319045407531
+      Star_Mock3_10: 5187899412739760426
+      Star_Mock3_11: 1554764462767984920
+      Star_Mock3_12: 5881533065309536652
+      Star_Mock3_13: 2513318506701229455
+      Star_Mock3_14: 6399005970197063063
+      Star_Mock3_15: 9201241322519709532
+      Star_Mock3_16: 6883652718408303471
+      Star_Mock3_17: -1584831609588598733
+      Star_Mock3_18: 1358268396971440459
+      Star_Mock3_19: -2026384808502915888
+      Star_Mock3_2: -6519711927820456042
+      Star_Mock3_20: 108892446132484689
+      Star_Mock3_3: -8251992713638942824
+      Star_Mock3_4: -3313727735014971946
+      Star_Mock3_5: 6029325160074153959
+      Star_Mock3_6: 5652777046589910469
+      Star_Mock3_7: 481831136698701930
+      Star_Mock3_8: -3056782274586412293
+      Star_Mock3_9: 5278381753838548001
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
