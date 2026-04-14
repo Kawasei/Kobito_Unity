@@ -1,0 +1,3 @@
+[submodule "Kobito_Client/Assets/CommonComponent"]
+	path = Kobito_Client/Assets/CommonComponent
+	url = git@github.com:Kawasei/CommonComponent.git
